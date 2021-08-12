@@ -1,0 +1,56 @@
+nav{
+    width:65vw;
+    margin:20px auto;
+    background-color: white;
+    padding:10px;
+   
+}
+
+li:first-of-type a{
+    font-weight: bold;
+    color:black;
+}
+
+main{
+    width:65vw;
+    margin:20px auto;
+    
+}
+article{
+    background-color:white;
+    padding:30px;
+    
+   
+}
+#first-container{
+    height:300px;
+}
+#first-container img{
+    height:100%;
+    float:left;
+    margin-right:70px;
+    
+
+
+}
+div{
+    padding:15px;
+    border:1px solid lightgray;
+}
+section{
+    display:grid;
+    row-gap:20px;
+}
+#first-container button{
+    
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+    font-size: 16px;
+    border:2px solid rgb(8, 235, 223);
+   
+    background:none;
+    box-shadow:0px 0px 4px rgb(8,235,223);
+    color:rgb(8,235,223);
+   
+}
